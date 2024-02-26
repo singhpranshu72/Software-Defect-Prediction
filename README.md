@@ -9,7 +9,7 @@ SVM, Decision Tree, Naive Bayes and Artificial Neural Network to train the model
 After getting different results from these techniques, we combine them through
 Logistic Regression and get the final output.
 
-We use different open source datasets from NASA
+We use different open source datasets from the NASA
 Promise Data Repository to perform this
 comparative study.
 
